@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name: Levi
 
-3. Enter your favourite animal: Leopard
+3. Enter your favourite animals: Leopard, Dolphin
 
 4. Now click the green 'commit changes' button at the bottom.
 
